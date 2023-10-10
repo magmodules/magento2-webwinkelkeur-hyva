@@ -1,5 +1,5 @@
 
-![magento-hyva-webwinkelkeur](https://github.com/magmodules/magento2-webwinkelkeur-hyva/assets/24823946/f563de84-091c-47d5-b02f-3bc5a00de23a)
+![magento-hyva-webwinkelkeur](https://github.com/magmodules/magento2-webwinkelkeur-hyva/assets/24823946/35b388fd-2c94-47b3-b80d-60839d047b5d)
 
 
 # WebwinkelKeur Hyvä Compatibility plugin
@@ -12,7 +12,7 @@ The WebwinkelKeur Compatibility plugin for the Magento Hyva theme has the follow
 - [Hyvä](https://github.com/hyva-themes)
 - [Magmodules WebwinkelKeur Reviews](https://www.magmodules.eu/magento2-webwinkelkeur-reviews.html)    
 
-<img width="1052" alt="hyva-webwinkelkeur" src="https://github.com/magmodules/magento2-webwinkelkeur-hyva/assets/24823946/7da6e6c3-526b-4061-8be2-39272d484b2b">
+<img width="1052" alt="webwinkelkeur-magento-plugin" src="https://github.com/magmodules/magento2-webwinkelkeur-hyva/assets/24823946/03b2fd23-1fa4-4da3-aadb-41b3088564c9">
 
 
 ## About the WebwinkelKeur Plugin
