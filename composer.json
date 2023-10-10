@@ -1,0 +1,22 @@
+{
+    "name": "magmodules/magento2-hyva-webwinkelkeur",
+    "description": "Hyvä Themes Compatibility module for Magmodules WebwinkelKeurSR",
+    "type": "magento2-module",
+    "license": [
+      "OSL-3.0",
+      "AFL-3.0"
+    ],
+    "require": {
+      "magento/framework": "*",
+      "hyva-themes/magento2-compat-module-fallback": "*",
+      "magmodules/magento2-webwinkelkeur": "*"
+    },
+    "autoload": {
+      "files": [
+        "src/registration.php"
+      ],
+      "psr-4": {
+        "Magmodules\\HyvaWebwinkelKeurSR\\": "src/"
+      }
+    }
+  }
