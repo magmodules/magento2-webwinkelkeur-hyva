@@ -617,3 +617,14 @@ $viewModel = $block->getViewModel();
         }
     }
 </script>
+
+<style>
+    .columns {
+        gap: 0 !important;
+        grid-template-columns: 1fr !important;
+    }
+
+    .columns div.column.main {
+        grid-column-start: 1 !important;
+    }
+</style>
