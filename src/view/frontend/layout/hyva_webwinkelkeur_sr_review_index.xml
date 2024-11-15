@@ -1,7 +1,12 @@
 <?xml version="1.0"?>
-<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column"
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
+
+        <!-- REMOVE -->
+        <referenceContainer name="div.sidebar.main" remove="true" />
+        <referenceContainer name="div.sidebar.additional" remove="true" />
+        <!-- ./REMOVE -->
 
         <referenceBlock name="wk.reviews">
             <block name="loading" template="Hyva_Theme::ui/loading.phtml"/>
